@@ -1,0 +1,27 @@
+{
+  "name": "graph-ql-event-booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajivShah1798/event-booking.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "MERN",
+    "SDE",
+    "Node",
+    "React",
+    "API"
+  ],
+  "author": "Rajiv Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajivShah1798/event-booking/issues"
+  },
+  "homepage": "https://github.com/RajivShah1798/event-booking#readme"
+}
